@@ -1,6 +1,28 @@
 {
+  "name": "backend_1",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "123456"
+  ],
+  "homepage": "https://github.com/tamdc21v7n538/BACKEND_1#readme",
+  "bugs": {
+    "url": "https://github.com/tamdc21v7n538/BACKEND_1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamdc21v7n538/BACKEND_1.git"
+  },
+  "license": "ISC",
+  "author": "Tran Huu Tam",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1"
-  }
+  },
+  "devDependencies": {}
 }
